@@ -84,14 +84,15 @@ Half adder:
 ![halfadder circuit](https://github.com/user-attachments/assets/1d7066c8-e6bc-4e8f-b16b-044e012b954e)
 
 Half subtractor:
-![half subtractor](https://github.com/user-attachments/assets/0899158f-556e-4a10-8928-74c5b81d7581)
+![Screenshot 2024-12-03 181613](https://github.com/user-attachments/assets/18dcede4-a284-41c8-88ce-f1614e429d88)
+
 
 **Output/TIMING Waveform**
 Half adder:
 ![waveform halfadder](https://github.com/user-attachments/assets/b772117e-589b-4842-b9b3-2abe5951258e)
 
 Half subtractor:
-![hs waveform](https://github.com/user-attachments/assets/310a786f-de86-4578-94b1-42d842f73b06)
+![Screenshot 2024-12-03 181445](https://github.com/user-attachments/assets/71921952-f77b-465f-91fe-a12508232fd1)
 
 **Result:**
 Thus, the Half Adder and Half Subtractor circuits are designed and the truth tables is verified using
