@@ -70,7 +70,7 @@ assign carry=a&b;
 endmodule
 ```
 ```
-Full subtractor:
+Half subtractor:
 
 module halfsubtractor(a,b,sum,carry);
 input a,b;
