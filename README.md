@@ -72,11 +72,11 @@ endmodule
 ```
 Half subtractor:
 
-module halfsubtractor(a,b,sum,carry);
+module halfsubtractor(a,b,dif,borrow);
 input a,b;
-output sum,carry;
-assign sum=a^b;
-assign carry=~a&b;
+output dif,borrow;
+assign dif=a^b;
+assign borrow=~a&b;
 endmodule
 ```
 **RTL Schematic**
