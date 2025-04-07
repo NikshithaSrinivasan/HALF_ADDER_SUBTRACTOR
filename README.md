@@ -56,8 +56,8 @@ Half subtractor:
 
 **Program:**
 ```
-Developed by: Rhudhra phriyamvadha K S
-RegisterNumber: 24900189
+Developed by: NIKSHITHA S
+RegisterNumber: 24900161
 ```
 ```
 Half adder:
