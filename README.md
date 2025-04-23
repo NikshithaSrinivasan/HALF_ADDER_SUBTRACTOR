@@ -36,9 +36,11 @@ Figure -02 HALF Subtractor
 **Truthtable**
 
 Half adder:
+
 ![Screenshot 2024-12-02 221545](https://github.com/user-attachments/assets/37372018-efad-4dd7-a437-927bfee50cdb)
 
 Half subtractor:
+
 ![Screenshot 2024-12-02 221558](https://github.com/user-attachments/assets/82e07c7a-6002-4bd7-b470-1a6ede2ee3a3)
 
 **Procedure**
@@ -55,29 +57,26 @@ Half subtractor:
 
 
 **Program:**
-```
+```python
 Developed by: NIKSHITHA S
-RegisterNumber: 24900161
+RegisterNumber: 212224040220
 ```
-```
-Half adder:
-
-module halfadder(a,b,sum,carry);
+```python
+module DE(a,b,sum,carry);
 input a,b;
 output sum,carry;
-assign sum=a^b;
-assign carry=a&b;
+assign sum=(a^b);
+assign carry=(a&b);
 endmodule
 ```
-```
-Half subtractor:
+```python
+module DE(x,y,diff,borr);
+input x,y;
+output diff,borr;
+assign diff = (x^y);
+assign borr = (~x&y);
+endmodule
 
-module halfsubtractor(a,b,dif,borrow);
-input a,b;
-output dif,borrow;
-assign dif=a^b;
-assign borrow=~a&b;
-endmodule
 ```
 **RTL Schematic**
 Half adder:
