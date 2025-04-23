@@ -69,6 +69,7 @@ assign sum=(a^b);
 assign carry=(a&b);
 endmodule
 ```
+
 ```python
 module DE(x,y,diff,borr);
 input x,y;
