@@ -78,7 +78,8 @@ endmodule
 **RTL Schematic**
 Half adder:
 
-![halfadder circuit](https://github.com/user-attachments/assets/1d7066c8-e6bc-4e8f-b16b-044e012b954e)
+![image](https://github.com/user-attachments/assets/cb56901f-2cd3-4d6b-b742-9820425877c0)
+
 Half subtractor:
 
 ![Screenshot 2024-12-03 181613](https://github.com/user-attachments/assets/18dcede4-a284-41c8-88ce-f1614e429d88)
