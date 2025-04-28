@@ -88,7 +88,8 @@ Half subtractor:
 **Output/TIMING Waveform**
 Half adder:
 
-![waveform halfadder](https://github.com/user-attachments/assets/b772117e-589b-4842-b9b3-2abe5951258e)
+![image](https://github.com/user-attachments/assets/3b4cbc4a-d731-4698-8e7a-26c9774aa967)
+
 Half subtractor:
 
 ![Screenshot 2024-12-03 181445](https://github.com/user-attachments/assets/71921952-f77b-465f-91fe-a12508232fd1)
