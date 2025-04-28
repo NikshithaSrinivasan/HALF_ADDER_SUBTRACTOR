@@ -92,7 +92,8 @@ Half adder:
 
 Half subtractor:
 
-![Screenshot 2024-12-03 181445](https://github.com/user-attachments/assets/71921952-f77b-465f-91fe-a12508232fd1)
+![Screenshot 2025-04-28 131936](https://github.com/user-attachments/assets/0c3b6417-d527-43a6-bdd7-92f061dcc791)
+
 
 **Result:**
 Thus, the Half Adder and Half Subtractor circuits are designed and the truth tables is verified using
